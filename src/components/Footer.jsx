@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='flex flex-row items-center justify-center gap-2'>
+    <div className='flex flex-row items-center justify-center gap-2 mb-4'>
       <a
         href='#'
         target='_blank'
